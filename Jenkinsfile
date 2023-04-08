@@ -1,2 +1,2 @@
 @Library('team5-shard-library') _
-teamApp '$https://github.com/Etech-consulting-llc/team5app1.git'
+teamApp 'git@github.com:Etech-consulting-llc/team5-shard-library.git'
